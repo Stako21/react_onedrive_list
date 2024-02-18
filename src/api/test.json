@@ -1,0 +1,173 @@
+[
+  {
+    "Path": "UDK",
+    "Name": "UDK",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2022-03-24T09:31:05Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26H255VFJNEOBJEIYBWDEOFJZVGZ"
+  },
+  {
+    "Path": "UDK/BAS_AVITO",
+    "Name": "BAS_AVITO",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-19T19:00:19Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26HV6CXWAUXLABAJJ4HVFCIVACQZ"
+  },
+  {
+    "Path": "UDK/BAS_KORP_BUH",
+    "Name": "BAS_KORP_BUH",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-19T18:34:32Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26BQGZEPDFHZV5AI6XZRPLN73QV3"
+  },
+  {
+    "Path": "UDK/BackUp_KIT_Kassa",
+    "Name": "BackUp_KIT_Kassa",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-26T10:26:23Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26AHHDRBQ5UWO5AINDNZTQ4TOTWZ"
+  },
+  {
+    "Path": "UDK/UDK",
+    "Name": "UDK",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-24T20:00:37Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26DW5MZVCECTCFHLYTVHJQWX2FUC"
+  },
+  {
+    "Path": "UDK/UDK_KR",
+    "Name": "UDK_KR",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-24T23:00:21Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26BQTK5FKYSHMZALR7HH3TTAZYE7"
+  },
+  {
+    "Path": "UDK/udk_m",
+    "Name": "udk_m",
+    "Size": -1,
+    "MimeType": "inode/directory",
+    "ModTime": "2023-12-25T00:23:44Z",
+    "IsDir": true,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26E5WPQHRHS7ZRDJ5LGK7BKXAML7"
+  },
+  {
+    "Path": "UDK/BackUp_KIT_Kassa/KIT_KASSA_full_b50_s1_v1.tib",
+    "Name": "KIT_KASSA_full_b50_s1_v1.tib",
+    "Size": 167488512,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T18:02:54Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26HSBFTHGYZF7JAJWK4KH6FRRKNK"
+  },
+  {
+    "Path": "UDK/BackUp_KIT_Kassa/KIT_KASSA_full_b51_s1_v1.tib",
+    "Name": "KIT_KASSA_full_b51_s1_v1.tib",
+    "Size": 173568000,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-12T18:02:08Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26BR6F5TKAA4A5GLQZR4CQS3GF5D"
+  },
+  {
+    "Path": "UDK/BAS_KORP_BUH/BAS_KORP_BUH_backup_2024_02_11_000001_3923887.bak",
+    "Name": "BAS_KORP_BUH_backup_2024_02_11_000001_3923887.bak",
+    "Size": 4101389312,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-10T22:36:33Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26DHOYIEN7OTEJAJW7XIRCR4REPW"
+  },
+  {
+    "Path": "UDK/BAS_KORP_BUH/BAS_KORP_BUH_backup_2024_02_11_060001_1634950.trn",
+    "Name": "BAS_KORP_BUH_backup_2024_02_11_060001_1634950.trn",
+    "Size": 1569792,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T04:00:10Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26ADZIZKA7MC5ZBJXIDH7SMWVY3G"
+  },
+  {
+    "Path": "UDK/UDK/UDK_backup_2024_02_11_000001_4234141.bak",
+    "Name": "UDK_backup_2024_02_11_000001_4234141.bak",
+    "Size": 52761238528,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T01:53:12Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26EY6MUIVMM5LJHIEP4STEMAVUPQ"
+  },
+  {
+    "Path": "UDK/UDK/UDK_backup_2024_02_11_070001_4389489.trn",
+    "Name": "UDK_backup_2024_02_11_070001_4389489.trn",
+    "Size": 2100750848,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T06:48:02Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26BRXQ2MA43EJJB3NTIUY2PUHD6I"
+  },
+  {
+    "Path": "UDK/BAS_AVITO/BAS_AVITO_backup_2024_02_11_000001_3893865.bak",
+    "Name": "BAS_AVITO_backup_2024_02_11_000001_3893865.bak",
+    "Size": 206059520,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-10T22:01:39Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26G2HLK6OYJATJFJ7Q6LXNCX667K"
+  },
+  {
+    "Path": "UDK/BAS_AVITO/BAS_AVITO_bвackup_2024_02_11_000001_3903875.trn",
+    "Name": "BAS_AVITO_backup_2024_02_11_000001_3903875.trn",
+    "Size": 62464,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-10T22:00:01Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26FQ4ZGHFDTPTVHLVDSPEYMY3YVY"
+  },
+  {
+    "Path": "UDK/UDK_KR/UDK_KR_backup_2024_02_11_000001_4324223.bak",
+    "Name": "UDK_KR_backup_2024_02_11_000001_4324223.bak",
+    "Size": 4259606528,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-10T22:42:47Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26DSAWJEAXQ3RJAYHPJPSE25T467"
+  },
+  {
+    "Path": "UDK/UDK_KR/UDK_KR_backup_2024_02_11_090001_0846359.trn",
+    "Name": "UDK_KR_backup_2024_02_11_090001_0846359.trn",
+    "Size": 3034436096,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T08:56:25Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26ERVNXJVFHVCRE3B5M24HA3AQN4"
+  },
+  {
+    "Path": "UDK/udk_m/udk_m_backup_2024_02_11_000001_3843826.bak",
+    "Name": "udk_m_backup_2024_02_11_000001_3843826.bak",
+    "Size": 18102782976,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-10T23:58:25Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26H4WNKYVLLUMFEZRCQMSFCCRFGG"
+  },
+  {
+    "Path": "UDK/udk_m/udk_m_backup_2024_02_11_080001_7068379.trn",
+    "Name": "udk_m_backup_2024_02_11_080001_7068379.trn",
+    "Size": 1575936,
+    "MimeType": "application/octet-stream",
+    "ModTime": "2024-02-11T06:00:19Z",
+    "IsDir": false,
+    "ID": "b!GQPHkBEPOk6O87z6xIRVrfcqD5A1qhtLgXN1Qzu9I-CjzqZHUmwFSKEroOzcXXrB#012THC26GWE3BK3ATA5JDZOCFWXEBZQSOT"
+  }
+]
