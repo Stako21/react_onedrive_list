@@ -1,4 +1,8 @@
-import React from "react"
+import React from "react";
+import bytes from "bytes";
+// import cn from "classnames";
+// import 'bulma/css/bulma.css';
+import './List.scss';
 
 
 function getPreparedList(lists) {
@@ -27,16 +31,26 @@ function getPreparedList(lists) {
 // Рекурсивний відображувач списку
 const renderList = (items) => {
   return (
-    <ul>
+    <ul class="content">
       {items.map(item => (
-        <li key={item.Path}>
+        <li className={item.IsDir ? 'folder' : 'file'} key={item.Path}>
           {item.IsDir ? (
             <>
-              <strong>{item.Name}</strong>
+              <button class="button">+</button>
+              <span className="folder__name">
+                {item.Name}
+              </span>
               {renderList(item.Children)}
             </>
           ) : (
-            <span>{item.Name}</span>
+            <>
+              <span className={item.Name.includes('.bak') ? 'bak' : 'nobak'}>
+                {`${item.Name}`}
+              </span>
+              <span className={item.Name.includes('.bak') ? 'bak' : 'nobak'}>
+                {`${bytes(item.Size)}`}
+              </span>
+            </>
           )}
         </li>
       ))}
