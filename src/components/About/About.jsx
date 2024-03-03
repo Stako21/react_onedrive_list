@@ -8,7 +8,7 @@ export const About = ({ about }) => {
   const trashed = bytes(about.trashed);
   const trshedInPercent = ((100 * about.trashed) / about.total).toFixed(2);
   const free = bytes(about.free);
-  const totalUsed = +usedInPercent + +trshedInPercent;
+  const totalUsed = (+usedInPercent + +trshedInPercent).toFixed(2);
 
   console.log('total', total);
   console.log('used', used);
